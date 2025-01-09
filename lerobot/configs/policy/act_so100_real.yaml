@@ -34,7 +34,7 @@ training:
   offline_steps: 80000
   online_steps: 0
   eval_freq: -1
-  save_freq: 4000
+  save_freq: 20000
   log_freq: 100
   save_checkpoint: true
 
